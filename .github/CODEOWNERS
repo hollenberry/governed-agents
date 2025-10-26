@@ -1,0 +1,40 @@
+# Code Owners for Custom Agents Repository
+#
+# This file defines who is responsible for reviewing and approving
+# changes to different parts of the repository.
+#
+# More info: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owners for everything in the repo
+# These users will be requested for review when someone opens a pull request
+*       @governance-team
+
+# Governance and policy documents require approval from governance leads
+/docs/                          @governance-team @architecture-team
+/CONTRIBUTING.md                @governance-team
+/README.md                      @governance-team
+
+# Security-related files and agents require security team review
+/docs/security-guidelines.md    @security-team
+/agents/security/               @security-team
+
+# Templates require governance team approval
+/templates/                     @governance-team
+
+# Catalog updates (usually automated, but governance team oversees)
+/catalog/                       @governance-team
+
+# Development agents require development leads review
+/agents/development/            @development-leads
+
+# Documentation agents require documentation team review
+/agents/documentation/          @documentation-team
+
+# Testing agents require QA team review
+/agents/testing/                @qa-team
+
+# Operations agents require DevOps team review
+/agents/operations/             @devops-team
+
+# GitHub configuration files
+/.github/                       @governance-team

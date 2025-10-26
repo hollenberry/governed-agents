@@ -14,6 +14,8 @@ Welcome to the Enterprise Custom Agents Governance Repository! This repository s
 - [Best Practices](#best-practices)
 - [Support](#support)
 
+> 🚀 **New here?** Check out the [Quick Start Guide](QUICKSTART.md) for a fast introduction!
+
 ## Overview
 
 This repository provides a governed approach to custom agents in the enterprise, ensuring:
