@@ -1,0 +1,99 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+.cache/
+tmp/
+
+# Build Artifacts
+dist/
+build/
+*.pyc
+__pycache__/
+node_modules/
+
+# Environment Variables (should never be committed)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Secrets and Keys (should never be committed)
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Test Coverage
+coverage/
+.coverage
+*.cover
+htmlcov/
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# System Files
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Package Manager
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Python
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.tox/
+venv/
+env/
+
+# Ruby
+*.gem
+.bundle/
+vendor/bundle/
+
+# Java
+*.class
+*.jar
+*.war
+target/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Rust
+target/
+Cargo.lock
+
+# Documentation Build
+_site/
+.jekyll-cache/
+.sass-cache/

@@ -1,0 +1,51 @@
+# Enterprise Custom Agents - License
+
+## Proprietary License
+
+Copyright (c) 2025 [Your Company Name]. All rights reserved.
+
+This repository and its contents are proprietary and confidential.
+
+### Terms of Use
+
+1. **Internal Use Only**: This repository and all custom agents contained within are for internal use by authorized employees and contractors of [Your Company Name] only.
+
+2. **No Distribution**: You may not distribute, share, or make available any part of this repository to any third party without explicit written permission from [Your Company Name].
+
+3. **No Modification for External Use**: While you may modify agents for internal use following the governance process, you may not create derivative works for use outside the organization.
+
+4. **Confidentiality**: All content in this repository is considered confidential and proprietary information of [Your Company Name].
+
+5. **Access Control**: Access to this repository is restricted to authorized personnel only.
+
+### Permitted Use
+
+Authorized employees and contractors may:
+- Use the agents for internal projects and workflows
+- Modify agents following the governance and approval process
+- Contribute new agents following the contribution guidelines
+- Share agents within the organization
+
+### Prohibited Use
+
+The following are strictly prohibited:
+- Sharing code or agents with external parties
+- Using agents for non-company projects
+- Removing copyright or attribution notices
+- Circumventing security or governance controls
+
+### Third-Party Components
+
+Some agents may incorporate or reference third-party open source components. Such components are subject to their respective licenses and are clearly marked in the agent documentation.
+
+### Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### Questions
+
+For licensing questions, contact: legal@company.com
+
+---
+
+**Last Updated**: 2025-10-26
